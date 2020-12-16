@@ -19,6 +19,7 @@ In this repository you can find some projects that I have developed along my und
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
 
+[![Neo4j](https://img.shields.io/badge/-Neo4j-white?style=flat-square&logo=neo4j&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
 ## Language Progamming
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> **Python**
