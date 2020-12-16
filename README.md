@@ -13,29 +13,31 @@ In this repository you can find some projects that I have developed along my und
 
 ## Back-end
 
+[![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> **Python**
+[![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
 
-[![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=Java&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
-
+[![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
 
 ## Databases 
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/Epalaciol/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/Epalaciol/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
 
 [![Neo4j](https://img.shields.io/badge/-Neo4j-white?style=flat-square&logo=neo4j&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
-## Language Progamming
 
+
+## Language Progamming
 
 <code><img height="20" src="https://github.com/namadoa/analytical-foundations/blob/main/Rstudio.svg"></code> 
 
 
 ## Version control
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
+
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
 
 
