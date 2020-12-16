@@ -11,6 +11,14 @@ In this repository you can find some projects that I have developed along my und
 
 # Knowledeges 💡
 
+## Back-end
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> **Python**
+
+[![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=java&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
+
+
 ## Databases 
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/Epalaciol/)
@@ -22,7 +30,6 @@ In this repository you can find some projects that I have developed along my und
 [![Neo4j](https://img.shields.io/badge/-Neo4j-white?style=flat-square&logo=neo4j&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
 ## Language Progamming
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> **Python**
 
 <code><img height="20" src="https://github.com/namadoa/analytical-foundations/blob/main/Rstudio.svg"></code> 
 
