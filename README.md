@@ -42,3 +42,5 @@ In this repository you can find some projects that I have developed along my und
 
 # Projects
 
+## Data science 
+- [Analisis y prediccion de accientalidad en Medellin](https://github.com/Epalaciol/TAE-2020)
