@@ -17,7 +17,7 @@ In this repository you can find some projects that I have developed along my und
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/Epalaciol/)
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
 
 ## Language Progamming
 
