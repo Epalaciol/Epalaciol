@@ -11,12 +11,11 @@ In this repository you can find some projects that I have developed along my und
 
 ## Databases 
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/ofaaoficial/)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/Epalaciol/)
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/ofaaoficial/)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/Epalaciol/)
 
-![MongoDB](https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Fes%2Flogo%2Fmongodb&psig=AOvVaw29Mfza7kMVOvpWyug74tcr&ust=1608233730775000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjsptWf0-0CFQAAAAAdAAAAABAJ)
-
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
 
 ## Language Progamming
 
