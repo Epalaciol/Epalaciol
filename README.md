@@ -5,7 +5,9 @@
 
 I'm **Esteban Palacio Londoño** 🤵🏻 , a student of Systems and Informatic Engineering and Data Science from Medellín, Colombia . 
 
-In this repository you can find some projects that I have developed along my undergrade studies and others about my learning process.
+In this repository you can find some projects that I have developed along my undergrade studies and others about personal projects used to lear new frameworks and technologies
+
+[![Linkedin Badge](https://img.shields.io/badge/-Esteban%20Palacio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estebanpalaciol)](https://www.linkedin.com/in/estebanpalaciol/)
 
 # Knowledeges 💡
 
