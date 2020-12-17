@@ -32,10 +32,12 @@ In this repository you can find some projects that I have developed along my und
 [![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
 [![Neo4j](https://img.shields.io/badge/-Neo4j-white?style=flat-square&logo=neo4j&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
 
+## Cloud
+<img height="25" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"> **GCP**
 
 ## Language Progamming
 
-<code><img height="20" src="https://github.com/namadoa/analytical-foundations/blob/main/Rstudio.svg"></code> 
+<img height="20" src="https://github.com/namadoa/analytical-foundations/blob/main/Rstudio.svg">
 
 ## Version control
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
@@ -45,4 +47,7 @@ In this repository you can find some projects that I have developed along my und
 # Projects
 
 ## Data science 
-- [Analisis y prediccion de accientalidad en Medellin](https://github.com/Epalaciol/TAE-2020)
+- [Analysis and prediction of accidents in Medellin](https://github.com/Epalaciol/TAE-2020)
+
+## Web
+- [Web Page Course](https://github.com/Epalaciol/HTML-CSS-and-Javascript-for-Web-Developers)
