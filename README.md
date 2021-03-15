@@ -52,6 +52,7 @@ In this repository you can find some projects that I have developed along my und
 ## Cloud
 <img height="25" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"> **GCP**   
 <img height= "25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png"> **AWS**
+<br />
 <img height= "25" src="https://cdn.freebiesupply.com/logos/large/2x/heroku-logo-png-transparent.png"> **Heroku**
 
 ## Language Progamming
