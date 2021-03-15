@@ -52,6 +52,7 @@ In this repository you can find some projects that I have developed along my und
 ## Cloud
 <img height="25" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"> **GCP**   
 <img height= "25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png"> **AWS**
+<img height= "25" src="https://cdn.freebiesupply.com/logos/large/2x/heroku-logo-png-transparent.png"> **Heroku**
 
 ## Language Progamming
 
@@ -62,11 +63,3 @@ In this repository you can find some projects that I have developed along my und
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
 [![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab&link=https://github.com/Epalaciol/)](https://github.com/Epalaciol/)
 
-
-# Projects
-
-## Data science 
-- [Analysis and prediction of accidents in Medellin](https://github.com/Epalaciol/TAE-2020)
-
-## Web
-- [Web Page Course](https://github.com/Epalaciol/HTML-CSS-and-Javascript-for-Web-Developers)
