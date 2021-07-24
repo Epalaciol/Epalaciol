@@ -16,6 +16,7 @@ In this repository you can find some projects that I have developed along my und
 
 ## Data science 
 - [Analysis and prediction of accidents in Medellin](https://github.com/Epalaciol/TAE-2020)
+- [Kaggle competition Predict Future Sales](https://github.com/Epalaciol/DataScienceCompetition/tree/master/Final_Project)
 
 ## Devops & Testing 
 - [Tests End to End (e2e)](https://github.com/Epalaciol/protractor-workshop-2021)
