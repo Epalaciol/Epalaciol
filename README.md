@@ -3,7 +3,7 @@
 
 <br /> 
 
-I'm **Esteban Palacio Londoño** 🤵🏻, student of Systems and Informatic Engineering and Data Science from Medellín, Colombia . 
+I'm **Esteban Palacio Londoño** 🤵🏻, Software Engineer from Medellín, Colombia . 
 
 In this repository you can find some projects that I have developed along my undergrade studies and others about personal projects used to lear new frameworks and technologies
 
